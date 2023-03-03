@@ -60,8 +60,9 @@ body {
   background: #F0EFEB;
   border-radius: 0px;
   display: flex;
- padding-left: 164px;
-  &-img{
+  padding-left: 164px;
+
+  &-img {
     width: 599px;
     height: 521px;
     top: 9px;
@@ -92,7 +93,8 @@ body {
         margin-top: 4px;
       }
     }
-    &-descr{
+
+    &-descr {
       font-family: 'Roboto';
       font-style: normal;
       font-weight: 400;
@@ -108,7 +110,7 @@ body {
   }
 }
 
-.header__btn{
+.header__btn {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
